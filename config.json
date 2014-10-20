@@ -14,10 +14,10 @@
       "address": "http://www.robbestad.com"
     },
     {
-      "type": "shell",
-      "id": "ping1",
-      "title": "robbestad.com (ping)",
-      "command": "ping -c 1 robbestad.com"
+      "type": "http",
+      "id": "nyhetsapiet",
+      "title": "nyhetsapiet",
+      "command": "http://nyhetsapiet.robbestad.no"
     }
   ]
 }
