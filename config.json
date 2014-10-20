@@ -1,23 +1,23 @@
 {
-  "title": "Xhacker’s Status Board",
+  "title": "Sven A's Status Board",
   "tasks": [
     {
       "type": "http",
-      "id": "xhacker",
-      "title": "xhacker.im",
-      "address": "http://xhacker.im"
+      "id": "inbeta",
+      "title": "inbeta.no",
+      "address": "http://www.inbeta.no"
     },
     {
       "type": "http",
-      "id": "not_exist",
-      "title": "not.exist",
-      "address": "http://not.exist"
+      "id": "robbestad",
+      "title": "robbestad.com",
+      "address": "http://www.robbestad.com"
     },
     {
       "type": "shell",
-      "id": "vps",
-      "title": "VPS",
-      "command": "ping -c 1 us-east-1.xhacker.im"
+      "id": "ping1",
+      "title": "robbestad.com (ping)",
+      "command": "ping -c 1 robbestad.com"
     }
   ]
 }
