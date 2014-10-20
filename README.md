@@ -4,6 +4,8 @@ Helps you to check if your websites are up.
 
 Configured for Heroku
 
+No need for config vars. Simply create a new heroku site with the Heroku Toolbelt and push
+
 <img src="screenshot.png" width="698">
 
 ## Configuration
