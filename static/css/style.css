@@ -66,6 +66,7 @@ h1 ~ p {
     body {
         max-width: 320px;
         margin: auto;
+        overflow-x: hidden;
         padding: 10px;
         font: 24px/32px "Source Sans Pro", sans-serif;
         color: #555;
