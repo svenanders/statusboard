@@ -1,6 +1,8 @@
 # Miracle Board
 
-Just another damn simple status board, helps you to check if your websites are up.
+Helps you to check if your websites are up.
+
+Configured for Heroku
 
 <img src="screenshot.png" width="698">
 
