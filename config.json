@@ -16,8 +16,8 @@
     {
       "type": "http",
       "id": "nyhetsapiet",
-      "title": "nyhetsapiet",
-      "command": "http://nyhetsapiet.robbestad.no"
-    }
+      "title": "api",
+      "address": "http://nyhetsapiet.robbestad.no"
+    }    
   ]
 }

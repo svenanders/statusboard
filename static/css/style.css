@@ -61,3 +61,34 @@ h1 ~ p {
 .title {
     float: left;
 }
+
+@media only screen and (max-width: 640px) {
+    body {
+        max-width: 320px;
+        margin: auto;
+        padding: 10px;
+        font: 24px/32px "Source Sans Pro", sans-serif;
+        color: #555;
+    }
+    .status {
+    background-color: rgba(100, 100, 100, 0.2);
+    width: 85px;
+    margin-right: 10px;
+    padding: 4px 6px;
+    font-size: 22px;
+    float: left;
+    border-right: 6px solid rgba(120, 120, 120, 0.75);
+    color: rgb(120, 120, 120);
+    }
+    h1 {
+    font: 32px/38px "Source Sans Pro", sans-serif;
+    }
+    h1 ~ p {
+    font-size: 16px;
+    color: #aaa;
+    font: 24px/38px "Source Sans Pro", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 10px 0;
+    }
+}
